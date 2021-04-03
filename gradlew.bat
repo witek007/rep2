@@ -1,7 +1,7 @@
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
-@rem  a5Gradle startup script for Windows
+@rem  a7Gradle startup script for Windows
 @rem
 @rem ##########################################################################
 
